@@ -5,12 +5,13 @@
 <h1 align="center">Hi <img width="35" src="[https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif](https://lnkd.in/dBYNAaS3)">,I'm Manjit</h1>
 <h4 align="center">just a freelance developer, see my <a href="https://manjit-poddar.github.io/resume/" target="https://manjit-poddar.github.io/resume/">resume</a> for more</h4>
 </div>
-
+<!--
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
   <img  src="https://manjit-poddar.github.io/resume/"
        alt="snake" /></a>
 </div>
+-->
 
 -----
 <details>
