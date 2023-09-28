@@ -2,7 +2,7 @@
 <body>
   
 <div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Azzar</h1>
+<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Manjit</h1>
 <h4 align="center">just a freelance developer, see my <a href="https://github.com/1999AZZAR/1999AZZAR/blob/main/assets/cv.azzar_budiyanto.pdf" target="_blank">resume</a> for more</h4>
 </div>
 
